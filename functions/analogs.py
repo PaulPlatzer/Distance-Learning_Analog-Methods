@@ -3,7 +3,7 @@
 # Paul Platzer, Arthur Avenas, Bertrand Chapron, Lucas Drumetz, Alexis Mouche, Pierre Tandeo, Léo Vinour, Distance Learning for Analog Methods. 2024. ⟨hal-04841334⟩
 
 import numpy as np
-# import numexpr as ne
+# import numexpr as ne # -> useless in new version
 from tqdm.notebook import tqdm
 from sklearn.neighbors import NearestNeighbors
 
